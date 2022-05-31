@@ -1,0 +1,41 @@
+h1, p, h3{
+text-align: center;
+}
+
+h1{
+
+}
+
+img{
+width: 100%;
+height: 100%;
+}
+
+main{
+background-color: #f0f0f5;
+margin: auto;
+}
+
+div{
+background-color: white;
+margin: 10px;
+border: 10px solid white;
+}
+
+fieldset{
+border: none;
+margin-left: 20%
+
+}
+
+li{
+margin: 20px auto;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+
+}
+
+.speech{
+font-family: 'Comic Sans MS' Arial;
+font-style: italic;
+font-size: 20px;
+}
